@@ -17,7 +17,7 @@ public class Solution {
     int[] workpieceList;
     int[] machineList;
 
-    
+
 
 
 }
